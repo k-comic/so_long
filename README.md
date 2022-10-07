@@ -1,3 +1,5 @@
+![nice](https://github.com/k-comic/so_long/blob/main/so_long.gif)
+
 # so_long
 
 # Описание
